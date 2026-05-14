@@ -1,6 +1,5 @@
 # US States Salary & Profit Analysis – Statistical Correlation Study
-Project Description
-This project explores profit metrics across 50 US states, focusing on average profit, total profit, population ranking, and profit ranking. The analysis includes data cleaning, median imputation for zero values, and statistical relationship analysis between population size and profit levels.
+Project Description: This project explores profit metrics across 50 US states, focusing on average profit, total profit, population ranking, and profit ranking. The analysis includes data cleaning, median imputation for zero values, and statistical relationship analysis between population size and profit levels.
 
 Key Objectives
 - Clean and prepare US states salary/profit dataset
